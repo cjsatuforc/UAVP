@@ -1,0 +1,34 @@
+Version 2.3:
+============
+- Integration der Debuganzeige
+- Dateieindung auv öffnet UAVPSet
+- Kopieren der Parameter-Sets von 1->2 und 2->1
+- Umschalten von 3.12, 3.13 und 3.14 für Parameter Werte
+- Roll/Nick/Gier-Limiter werden auf 127/Integral begrenzt
+- Gier wird bei Ebenen übertragen
+- div. Infos angepasst
+
+Version 2.2:
+============
+- Neues Farbkonzept der Parameterwerte
+- Fehlerbehebung flashen nach Testsoftware
+- Anzeigefehler (Info-Meldungen)
+- COM Ports dynamisch ermitteln
+- COM über Config einstellbar
+- Sprache über Config einstellbar
+
+Version 2.1:
+============
+- Parameterset für Firmware 3.13 angepasst
+- wiederholtes Brennen nach fehlerhaftem Brennen mglich
+- Diverse Fehlerkorrekturen
+- Anzeige wenn Verbindung geschlossen
+- Kompass auf -16 / +16 begrenzt
+- Parameterwerte mit Kürzel anzeigen
+- Größenänderung der Form anpassen
+- Einstellungen Layout speichern
+- Englische Hilfetexte
+
+Version 2.0:
+============
+- Neuprogrammierung auf Basis von Dot.Net 2.0 in C# 

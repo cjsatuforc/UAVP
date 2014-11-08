@@ -1,0 +1,10 @@
+Version 2.1:
+- wiederholtes Brennen nach fehlerhaftem Brennen mglich
+- Diverse Fehlerkorrekturen
+- Anzeige wenn Verbindung geschlossen
+- Kompass auf -16 / +16 begrenzt
+- Parameterwerte mit Kürzel anzeigen
+- Größenänderung der Form anpassen
+- Einstellungen Layout speichern
+Version 2.0:
+- Neuprogrammierung auf Basis von Dot.Net 2.0 in C# 
