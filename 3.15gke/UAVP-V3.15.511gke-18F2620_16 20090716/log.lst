@@ -1,0 +1,1129 @@
+Starting makeall uavptest 
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:195:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:204:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:208:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:213:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:227:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:245:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:247:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:249:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:262:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:268:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:273:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:277:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:282:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:290:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:292:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:306:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:314:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:318:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:323:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:340:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:351:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:355:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:362:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:366:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:368:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:373:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:379:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:388:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:411:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:416:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:419:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:422:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:428:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:435:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:442:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\pu-test.c:449:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:97:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:108:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:110:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:113:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:116:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:118:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:122:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:125:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:127:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:144:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:145:Warning [2058] call of function without prototype
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:163:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:165:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:191:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:196:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:197:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:198:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:199:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:200:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:201:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:202:Warning [2054] suspicious pointer conversion
+C:\Documents and Settings\GKE\Desktop\Google\menu-test.c:203:Warning [2054] suspicious pointer conversion
+MPLAB C18 v3.31 (evaluation)
+Copyright 2000-2009 Microchip Technology Inc.
+Days remaining until evaluation becomes feature limited:  50
+MPLINK 4.31, Linker
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+
+MP2HEX 4.31, COFF to HEX File Converter
+Copyright (c) 2009 Microchip Technology Inc.
+Errors    : 0
+

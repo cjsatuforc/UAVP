@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="UAVPSet 3.04 (UAVX).exe" version="3.0.4.124" publicKeyToken="2a9abd33bf4c71b0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="uavpset.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UAVPSet 3.04 (UAVX)" version="3.0.4.117" language="neutral" processorArchitecture="msil" />
+    <commandLine file="UAVPSet 3.04 (UAVX).exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Sentinel.v3.5Client" version="3.5.0.0" publicKeyToken="b03f5f7f11d50a3a" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UAVPSet 3.04 (UAVX).exe" size="1172480">
+      <assemblyIdentity name="UAVPSet 3.04 (UAVX)" version="3.0.4.117" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fBIt6sS4jYnRp/LWTogBo0qBghM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\UAVPSet 3.04 (UAVX).resources.dll" size="139264">
+      <assemblyIdentity name="UAVPSet 3.04 (UAVX).resources" version="3.0.4.117" language="de" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>sGCxeg0kzcHycCHn7SKlaAMYar8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\UAVPSet 3.04 (UAVX).resources.dll" size="4608">
+      <assemblyIdentity name="UAVPSet 3.04 (UAVX).resources" version="3.0.4.117" language="en-US" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>d3xEH5NkP/3/RmRJ83QH3nfkX30=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\UAVPSet 3.04 (UAVX).resources.dll" size="106496">
+      <assemblyIdentity name="UAVPSet 3.04 (UAVX).resources" version="3.0.4.117" language="fr" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>JoOtvig1sRVDl+iNqndPew4EStE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\info.jpg" size="20139">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xcxMNkrjPnTWna0+Oo9WrrTNNdE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\uavp.ico" size="1406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jtx8SAi8BjZRyspMCOo9Bkzi390=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="UAVPSet 3.04 (UAVX).exe.config" size="9068">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kf07UoyvzpNiPDdR4rXmrkBzYsw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="uavpset.ico" size="7406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZFKLFZ7XjEr2X1Rqp4DL+hm7Ueg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JES-5\Karaoke" issuerKeyHash="1b194b1c06ffd4fbe299cd4a0eeae4081e10758d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6047JD9A1B6S7dqVK1jdW/d/qOU=</DigestValue></Reference></SignedInfo><SignatureValue>gX/+XydeVYEZkZFmduBpWA+6dKPg+rxitDISGiVgWuJsuvJw5FDrCOJTX1RUcn5pS2aDW+WpI7FfNo6mm1eo7N032hDSwMTRWNRl4qYF/5l0/KtP57Vt9DbWt/htLP/DdZRcNULixaIkix7S5kuSy9KfaTqzMWRlsvlgi8NijKY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wf7KAToxGU7ane3ChTjKcJoueECi3rGTQVU1zcMl7p3DVfio1/qf0ZQ9LgvYtYoARDFaw+MBd2VO/iTe7UVNYUptreEb+1Y7Kul36CgI1lsFLPjFdyWOR8vL6ruWEdJMdxDu74YCiFaPJRAUlNA3FhDu1Qvht4FosYUEiYor2D0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e5a87ff75bdd582b95daed921ed4403f243b4eeb" Description="" Url=""><as:assemblyIdentity name="UAVPSet 3.04 (UAVX).exe" version="3.0.4.124" publicKeyToken="2a9abd33bf4c71b0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JES-5\Karaoke</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>W/qPRBden+vg2EgF8fAnsYRl06Q=</DigestValue></Reference></SignedInfo><SignatureValue>hEHS5QZwHZFTqxgJbVIi09ySWNYPOzIBlt2LbeZi6eoUsl/d1yl3kilNKjXqxCTZFxpJidQOKRwwiGXkZqdm+3mnLAy7Jz3VRlcdFKFvayh1YfJOTalcgaLubww2ki+iOdcKG/nbf4lVctnYBlGVTscfhaLTYgi3t69qx67LWcQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wf7KAToxGU7ane3ChTjKcJoueECi3rGTQVU1zcMl7p3DVfio1/qf0ZQ9LgvYtYoARDFaw+MBd2VO/iTe7UVNYUptreEb+1Y7Kul36CgI1lsFLPjFdyWOR8vL6ruWEdJMdxDu74YCiFaPJRAUlNA3FhDu1Qvht4FosYUEiYor2D0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCATKgAwIBAgIQe94OdF72u5VECltcmk04xjAJBgUrDgMCHQUAMCUxIzAhBgNVBAMeGgBKAEUAUwAtADUAXABLAGEAcgBhAG8AawBlMB4XDTA5MTAwMjEyMjc0N1oXDTEwMTAwMjE4Mjc0N1owJTEjMCEGA1UEAx4aAEoARQBTAC0ANQBcAEsAYQByAGEAbwBrAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMH+ygE6MRlO2p3twoU4ynCaLnhAot6xk0FVNc3DJe6dw1X4qNf6n9GUPS4L2LWKAEQxWsPjAXdlTv4k3u1FTWFKba3hG/tWOyrpd+goCNZbBSz4xXcljkfLy+q7lhHSTHcQ7u+GAohWjyUQFJTQNxYQ7tUL4beBaLGFBImKK9g9AgMBAAEwCQYFKw4DAh0FAAOBgQBjVyoNWRo/JBziYBdJwN3/YeSb1xFq3nFeCS2kjZV2LBZMS50APUSfVd4VREFtDatJy53NkELQkeKCtqyrVBwuTqA8PTGZDa9zQDEcrX9BnIY1ERO0oPpp6qtp78Q08/fQHIbN8UvSWC+sNVwYF3eSBVCwpAwQ+yOSXIbT/wc2Tw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

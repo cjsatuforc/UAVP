@@ -1,0 +1,303 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/329/branches/gke-uavp-18f
+END
+UAVP-V3_15m3_18F2520_16-Debug_SENSORS-ADX300-DSM2-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-Debug_SENSORS-ADX300-DSM2-PPM.hex
+END
+UAVPTest-V3_15m3_18F2520_16-IDG-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/286/branches/gke-uavp-18f/UAVPTest-V3_15m3_18F2520_16-IDG-PPM.hex
+END
+UAVP-V3_15m3_18F2520_16-IDG-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-IDG-PPM.hex
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/280/branches/gke-uavp-18f/utils.c
+END
+UAVP-V3_15m3_18F2520_16-IDG-DSM2-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-IDG-DSM2-PPM.hex
+END
+makeclean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/278/branches/gke-uavp-18f/makeclean.bat
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/280/branches/gke-uavp-18f/bits.h
+END
+accel.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/280/branches/gke-uavp-18f/accel.c
+END
+uavpm3test.mcp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/248/branches/gke-uavp-18f/uavpm3test.mcp
+END
+make_mine.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/511/branches/gke-uavp-18f/make_mine.bat
+END
+c-ufo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/289/branches/gke-uavp-18f/c-ufo.c
+END
+general.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/273/branches/gke-uavp-18f/general.asm
+END
+c-ufo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/511/branches/gke-uavp-18f/c-ufo.h
+END
+uavpm3test.mcw
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/284/branches/gke-uavp-18f/uavpm3test.mcw
+END
+gpl-en.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/branches/gke-uavp-18f/gpl-en.txt
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/273/branches/gke-uavp-18f/serial.c
+END
+menu-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/248/branches/gke-uavp-18f/menu-test.c
+END
+makeallhelperSVN.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/511/branches/gke-uavp-18f/makeallhelperSVN.bat
+END
+UAVPTest-V3_15m3_18F2520_16-ADX300-RXCOM-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/286/branches/gke-uavp-18f/UAVPTest-V3_15m3_18F2520_16-ADX300-RXCOM-PPM.hex
+END
+outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/289/branches/gke-uavp-18f/outputs.c
+END
+UAVPRevisionSVN.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/511/branches/gke-uavp-18f/UAVPRevisionSVN.h
+END
+_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/182/branches/gke-uavp-18f/_README.txt
+END
+makeall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/511/branches/gke-uavp-18f/makeall.bat
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/285/branches/gke-uavp-18f/irq.c
+END
+UAVP-V3_15m3_18F2520_16-ADX300-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-ADX300-PPM.hex
+END
+xxx.sbs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/182/branches/gke-uavp-18f/xxx.sbs
+END
+serial-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/229/branches/gke-uavp-18f/serial-test.c
+END
+bootl18f.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/329/branches/gke-uavp-18f/bootl18f.asm
+END
+UAVPTest-V3_15m3_18F2520_16-ADX300-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/286/branches/gke-uavp-18f/UAVPTest-V3_15m3_18F2520_16-ADX300-PPM.hex
+END
+_HISTORY.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/329/branches/gke-uavp-18f/_HISTORY.txt
+END
+UAVP-V3_15m3_18F2520_16-ADX300-DSM2-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-ADX300-DSM2-PPM.hex
+END
+uavpm3.cof
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/270/branches/gke-uavp-18f/uavpm3.cof
+END
+UAVP-V3_15m3_18F2520_16-Debug_SENSORS-IDG-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-Debug_SENSORS-IDG-PPM.hex
+END
+pu-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/511/branches/gke-uavp-18f/pu-test.c
+END
+lisl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/273/branches/gke-uavp-18f/lisl.c
+END
+UAVP-V3_15m3_18F2520_16-Debug_SENSORS-IDG-DSM2-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-Debug_SENSORS-IDG-DSM2-PPM.hex
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/290/branches/gke-uavp-18f/menu.c
+END
+gpl-de.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/branches/gke-uavp-18f/gpl-de.txt
+END
+xxx2620.sbs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/288/branches/gke-uavp-18f/xxx2620.sbs
+END
+prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/273/branches/gke-uavp-18f/prog.c
+END
+uavpm3.mcp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/274/branches/gke-uavp-18f/uavpm3.mcp
+END
+sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/511/branches/gke-uavp-18f/sensor.c
+END
+_README_DSM2_ETC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/182/branches/gke-uavp-18f/_README_DSM2_ETC.txt
+END
+pid.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/285/branches/gke-uavp-18f/pid.c
+END
+uavpm3.mcw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/329/branches/gke-uavp-18f/uavpm3.mcw
+END
+makealltesthelperSVN.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/511/branches/gke-uavp-18f/makealltesthelperSVN.bat
+END
+UAVPTest-V3_15m3_18F2520_16-IDG-RXCOM-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/286/branches/gke-uavp-18f/UAVPTest-V3_15m3_18F2520_16-IDG-RXCOM-PPM.hex
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/231/branches/gke-uavp-18f/adc.c
+END
+UAVP-V3_15m3_18F2520_16-Debug_SENSORS-ADX300-PPM.hex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/329/branches/gke-uavp-18f/UAVP-V3_15m3_18F2520_16-Debug_SENSORS-ADX300-PPM.hex
+END
